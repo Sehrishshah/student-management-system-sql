@@ -1,12 +1,18 @@
 # Student Management System (SQL)
 
-![Queries](nullvalue.png)
+## Some SQL Query Outputs
 
-![Queries](duplicate.png)
+### Duplicate Value Check
+![Duplicate](duplicate.png)
 
-![Queries](view.png)
+### Null Value Check
+![Null Value](nullvalue.png)
 
-![Queries](analysis.png)
+### View Creation Output
+![View](view.png)
+
+### Final Analysis Query
+![Analysis](analysis.png)
 
 ## 📌 Project Overview
 
