@@ -1,8 +1,11 @@
 # Student Management System (SQL)
 
-![Queries](nullvalues.png)
-![Queries](duplicates.png)
+![Queries](nullvalue.png)
+
+![Queries](duplicate.png)
+
 ![Queries](view.png)
+
 ![Queries](analysis.png)
 
 ## 📌 Project Overview
